@@ -8,5 +8,5 @@ After listening to the given audio file, I could quickly tell that this was DTMF
 I put the audio file into a online DTMF decoder:
 ![alt text](./dtmf.png)
 Using the decoded numbers, I put the numbers into a Multi-Tap SMS Decoder, which gives us our flag:
-![alt text](./multi_tap_sms.png)
+![alt text](./multi tap sms.png)
 Flag is: 'DTMFISFUN'
