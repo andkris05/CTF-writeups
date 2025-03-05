@@ -6,7 +6,7 @@ Flag format: No format'
 
 After listening to the given audio file, I could quickly tell that this was DTMF based on the beeping noises and its pitches. 
 I put the audio file into a online DTMF decoder:
-
+![alt text](./dtmf.png)
 Using the decoded numbers, I put the numbers into a Multi-Tap SMS Decoder, which gives us our flag:
-
-'DTMFISFUN'
+![alt text](./multi_tap_sms.png)
+Flag is: 'DTMFISFUN'
