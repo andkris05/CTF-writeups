@@ -18,12 +18,19 @@ it's possible to make out the word `Steuerhinterziehung`, which translates to ta
 I was able to find what I needed by searching the combination `steuerhinterziehung 01.07.1970`.
 
 Look! Here's an article from Rheinland Pfalz Polizei! And it even has the name Poongodi!
+![alt text](./search.png)
 
 Apperantly there's a manhunt because of serious tax evasion. Either way, if we scroll down a little, we can find a link
-that contains more information on her. Again, if we scroll down a little more on this page, we can find a link that says
+that contains more information on her. 
+![alt text](./link.png)
+
+
+Again, if we scroll down a little more on this page, we can find a link that says
 `Weitere Informationen`, or more information.
+![alt text](./info.png)
 
 It is here where we can find out what her tattoo says.
+![alt text](./tattoo.png)
 
 Flag: `CTFkom{AL}`
 
