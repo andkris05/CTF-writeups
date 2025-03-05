@@ -10,6 +10,9 @@ that has remained unsolved for centuries. You however dont care about that. Your
 the misterious persons skin.`
 
 `Flag format: CTFkom{Live Love Laugh}`
+![alt text](./Detective_1.png)
+
+
 
 For this challenge, we are met with an image that seems to contain excerpts of a german sentence, although being obviously
 incomplete. On the bottom of our image, we can see the text `Poongo`, as well as a date: `01.07.1970`. 
@@ -20,17 +23,24 @@ I was able to find what I needed by searching the combination `steuerhinterziehu
 Look! Here's an article from Rheinland Pfalz Polizei! And it even has the name Poongodi!
 ![alt text](./search.png)
 
+
+
 Apperantly there's a manhunt because of serious tax evasion. Either way, if we scroll down a little, we can find a link
 that contains more information on her. 
 ![alt text](./link.png)
+
 
 
 Again, if we scroll down a little more on this page, we can find a link that says
 `Weitere Informationen`, or more information.
 ![alt text](./info.png)
 
+
+
 It is here where we can find out what her tattoo says.
 ![alt text](./tattoo.png)
+
+
 
 Flag: `CTFkom{AL}`
 
