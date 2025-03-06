@@ -24,4 +24,9 @@ to find perfect info on exactly this, and the blue sleeping bag on the left is a
 
 This pinpoints our location to a very small area in the middle of Mongolia. And if we go to google maps, it's supposed to be
 right above the Mongolia-name. If we go to Mongolia on google maps and search `Mongolia Camp Hotel`, it will give us
-a few locations here and there. By 
+a few locations here and there. By zooming in right abovie the Mongolia name, we will find about 4-5 camps. One of them is
+called `BAYAN GOBI`, and has a nice road leading up to it and nothing else. This ended up being the flag.
+
+`CTFkom{BAYAN GOBI}`
+
+
