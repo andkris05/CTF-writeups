@@ -15,12 +15,14 @@ for figuring out your location in geoguessr based on the car in the photo.
 On this website: https://www.plonkit.net/mongolia I was able to figure out the general location we were in based on the
 rubber inlays of our car's roof racks. Our car having a presence of rubber inlays tells us that we are either in the middle,
 or northwest of Mongolia.
+![alt text](./rack.png)
 
 However, this information alone, while helpful, doesn't pinpoint any exact location. I later found another website that
 explained Mongolia's car meta well: https://gwern.net/doc/cs/security/2021-kommu-themongoliangeoguessrmeta.pdf.
 What I learned here, is that the car's content can give us huge hints on our whereabouts. Most places in mongolia with this
 type of car seem to have a trunk-cover covering its contents. Our car however, doesn't have that. On this website I was able
 to find perfect info on exactly this, and the blue sleeping bag on the left is a big hint.
+![alt text](./bag.png)
 
 This pinpoints our location to a very small area in the middle of Mongolia. And if we go to google maps, it's supposed to be
 right above the Mongolia-name. If we go to Mongolia on google maps and search `Mongolia Camp Hotel`, it will give us
@@ -28,5 +30,7 @@ a few locations here and there. By zooming in right abovie the Mongolia name, we
 called `BAYAN GOBI`, and has a nice road leading up to it and nothing else. This ended up being the flag.
 
 `CTFkom{BAYAN GOBI}`
+
+![alt text](./zoom.gif)
 
 
