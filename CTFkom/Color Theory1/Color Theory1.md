@@ -5,10 +5,10 @@
 
 ![alt text](./lsb.png)
 
+Ahhh, CTFkom… mysterious, the name sounds. Investigate, we must.
+Right off the bat, since we are talking about steganography, the LSB and ASCII values probably have something to do with the file itself that we are given. In this case it's probably the least-significant bits of the pixels spell out text. In order to extract this text we can use a range of different steganography tools in our Linux terminal. I'm going with zsteg, which I find easy to use.
 
-Interesting. Right off the bat, since we are talking about steganography, the LSB and ASCII values probably have something to do with the file itself that we are given. In this case it's probably the least-significant bits of the pixels spell out text. In order to extract this text we can use a range of different steganography tools in our Linux terminal. I'm going with zsteg, which I find easy to use.
-
-I am using the command `zsteg -a lsb.png`. This command tries out every method on our PNG file in order to find anything noteworthy. After running the code, we are met with many, many lines of gibberish. However, after a little scrolling, we find a funny looking flag that relates to our yoda picture.
+I am using the command `zsteg -a lsb.png`. This command tries out every method on our PNG file in order to find anything noteworthy. At first, the output is a chaotic mess — lines of gibberish that would confuse even Master Yoda. But patience, young Padawan. Scroll you must.
 
 ![alt text](./answer2.gif)
 
